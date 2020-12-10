@@ -45,6 +45,7 @@ const Experience = () => {
           </div>
           <div>
             <a
+              rel="noopener"
               target="_blank"
               className="text-blue-700 font-bold text-lg"
               href={item.href}

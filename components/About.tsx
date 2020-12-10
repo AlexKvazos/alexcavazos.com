@@ -10,11 +10,11 @@ const About = () => {
         entire life. I got interested in technology since very young, captivated
         by the curiosity of how everything worked. I started teaching myself web
         development when I was 15 years old using online platforms like{' '}
-        <Link target="_blank" href="https://www.codecademy.com/">
+        <Link rel="noopener" target="_blank" href="https://www.codecademy.com/">
           Codecademy
         </Link>{' '}
         and{' '}
-        <Link target="_blank" href="https://teamtreehouse.com">
+        <Link rel="noopener" target="_blank" href="https://teamtreehouse.com">
           Treehouse
         </Link>
         .
@@ -32,7 +32,7 @@ const About = () => {
         been a speaker at multiple tech meetups in my city, advocating on modern
         web technologies and best practices, and participated as an instructor
         at a coding bootcamp for{' '}
-        <Link target="_blank" href="https://cerouno.io/">
+        <Link rel="noopener" target="_blank" href="https://cerouno.io/">
           CeroUno
         </Link>
         .

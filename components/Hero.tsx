@@ -14,11 +14,19 @@ const Hero = () => {
       </h2>
       <p className="leading-loose text-gray-600 mb-7">
         You can check out some of my code on{' '}
-        <Link target="_blank" href="https://github.com/AlexKvazos">
+        <Link
+          rel="noopener"
+          target="_blank"
+          href="https://github.com/AlexKvazos"
+        >
           GitHub
         </Link>
         . I document my journey on{' '}
-        <Link target="_blank" href="https://instagram.com/cavacodes">
+        <Link
+          rel="noopener"
+          target="_blank"
+          href="https://instagram.com/cavacodes"
+        >
           Instagram
         </Link>{' '}
         where I also share tips, tricks, and resources to help out other
