@@ -13,6 +13,12 @@ export default function Home() {
       <Head>
         <title>Alex Cavazos | Full-Stack Javascript Developer</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="I'm a Full-Stack JavaScript developer from Monterrey, Mexico. I've been
+        passionate about technology my entire life and have been working as a
+        professional developer for over five years."
+        />
       </Head>
 
       <div className="max-w-3xl mx-auto pt-6 px-6">
